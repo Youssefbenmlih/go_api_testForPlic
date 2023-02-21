@@ -15,7 +15,7 @@ GO's ADVANTAGES :
 
 GO's DRAWBACKS :
 
-- It will take some time for us to learn the syntax and the overall language as well its basic libraries.
+- It will take some time for us to learn the syntax and the overall language as well as its basic libraries.
 - How it works and the potential errors we will undoubtedly get will take time and effort to fix.
 - We have no experience of the language with back-end developpement.
 - It is less popular than python, meaning fewer libraries, stackoverflow posts and a smaller community overall.
