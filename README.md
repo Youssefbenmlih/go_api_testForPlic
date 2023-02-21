@@ -40,7 +40,7 @@ PYTHON's DRAWBACKS :
 - Despite the loss of time on go it is always good to learn a new language and python would not help us in that regard.
 - it is not a google tech.
 
-That's it for the comparison, the best way to choose is the try both server, better even is to redo-them and make your own opinion. please add your vote in this file.
+That's it for the comparison, the best way to choose is to try both server, better even is to remake-them and make your own opinion. please add your vote in this file.
 
 # VOTE
 
