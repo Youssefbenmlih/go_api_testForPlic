@@ -47,4 +47,4 @@ That's it for the comparison, the best way to choose is to try both server, bett
 Youssef : Python, it's a safe bet I like safety.
 Nathan :
 Adrian :
-Hugo :
+Hugo : Go
