@@ -11,7 +11,7 @@ GO's ADVANTAGES :
 - Pretty simple language.
 - Would make us learn a new language, and learning new things is always a plus.
 - Gorm and gin work well and are not too difficult to get accustomed to and have great doc (in my opinion I found that gorm had a better doc than flask_sqlalchemy).
-- It is a google made technology, the same as our front-end, they both are very fast and agile.
+- It is a google made technology, the same as our front-end, they both are very fast and agile (they have compatibility).
 
 GO's DRAWBACKS :
 
